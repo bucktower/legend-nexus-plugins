@@ -1,0 +1,28 @@
+lastAccountName: AlsumPossum
+timestamps:
+  login: 1437049479415
+  lastteleport: 1437017025921
+  logout: 1437049499667
+ipAddress: 74.129.219.154
+lastlocation:
+  world: world
+  x: -750.7453184488957
+  y: 68.0
+  z: -2167.2105110582334
+  yaw: 223.34825
+  pitch: 29.100046
+homes:
+  home:
+    world: world
+    x: -778.0684292057495
+    y: 70.0
+    z: -2135.535817732793
+    yaw: 140.69817
+    pitch: 4.3500576
+logoutlocation:
+  world: world
+  x: -252.37958604532508
+  y: 71.0
+  z: -2463.5522381200717
+  yaw: -266.1012
+  pitch: 6.1501174

@@ -1,0 +1,155 @@
+welcome:
+  location: world, 203.653, 81.200, 177.498
+  lines:
+  - '&l&bWelcome to Legend Nexus!'
+  - Please walk inside for a 1-minute intro
+protection:
+  location: world, 205.300, 88.404, 177.526
+  lines:
+  - '&b&lProtection'
+  - Protections only work in designated cities!
+  - In the wild you can place down &a&lPROXIMITY SNITCHES
+  - to &asee monitor block changes &fso that you know
+  - greifed you!
+noteblock:
+  location: world, 205.467, 86.000, 179.645
+  lines:
+  - '&a&lPROXIMITY SNITCH'
+  - Log all greifers
+  - Does NOT protect
+plot:
+  location: world, 205.377, 86.000, 175.451
+  lines:
+  - '&a&lCITY PLOT'
+  - Only purchasable
+  - DOES protect blocks
+  - '*Only in cities*'
+spec:
+  location: world, 176.148, 75.000, 131.422
+  lines:
+  - '&a&lSPECIAL BLOCKS'
+  - Useful, but optional
+  - Feel free to head out
+  - to the wild -->
+  - '----'
+  - Or you could check
+  - the tutorial here
+  - ^^^
+thisway:
+  location: world, 223.661, 87.200, 169.812
+  lines:
+  - The wild is right out this hall
+  - <--
+  - '&aServer map:'
+  - '&ahttp://play.legendnexus.ninja:8123'
+towild:
+  location: world, 217.326, 84.873, 163.529
+  lines:
+  - TO THE WILD
+  - ^^^
+atlantis:
+  location: world, 175.594, 74.000, 126.310
+  lines:
+  - '&b&lAir of Atlantis'
+  - Breathe underwater in it's radius
+  - Great for building underwater cities
+skycannon:
+  location: world, 169.566, 74.000, 126.873
+  lines:
+  - '&7&lSky Cannon'
+  - Shoot player up when walked on
+  - Avoidable by sneak
+launchpad:
+  location: world, 163.278, 74.000, 126.571
+  lines:
+  - '&e&lLaunch Pad'
+  - Launch player forward and up when
+  - walked on. Can be redstone
+  - activated. Bypass when sneaking
+jacko:
+  location: world, 169.568, 74.000, 136.470
+  lines:
+  - '&4&lJack-o-Death'
+  - 1/2 heart dmg per second
+  - to anyone in its area
+  - bypass by sneaking
+minerhaste:
+  location: world, 163.416, 74.000, 136.656
+  lines:
+  - '&9&lMiner''s Haste'
+  - Mine & walk faster
+  - jump higher + no fall dmg
+  - can be redstone toggled
+proxmine:
+  location: world, 163.527, 74.000, 131.397
+  lines:
+  - '&c&lProximity Mine'
+  - Triggers explosion when sense
+  - movement. Bypass by sneak
+  - Can be picked up by anyone
+shocker:
+  location: world, 175.696, 74.000, 136.566
+  lines:
+  - '&6&lThe Shocker'
+  - Lightning strike when anyone walks
+  - on one. Bypass by sneak. Can be mined by
+  - anyone. STONE MONSTER EGG, NOT NORMAL STONE
+addpstones:
+  location: world, 169.621, 76.200, 131.537
+  lines:
+  - These will only hurt strangers!
+  - To add your friends to the spec block's allowed
+  - (friendly) list, use &a/ps allow [player]
+  - You can buy these stones at Shopekeepers!
+ecotut:
+  location: world, 212.648, 87.200, 169.383
+  lines:
+  - '&a&lECONOMY'
+  - optional, but HELPFUL
+  - tutorial
+  - ^^^
+storage:
+  location: world, 207.300, 87.200, 158.300
+  lines:
+  - '&a&lStoring $'
+  - You can check your $ on the
+  - sidebar where it says "Emeralds".
+  - 'To add more $ storage, you can use:'
+  - 1) Your inventory
+  - 2) An Enderchest
+  - '&a3) A chest w/ a sign that has'
+  - '&9[vault] &aon the 1st line'
+weuse:
+  location: world, 212.696, 87.200, 165.654
+  lines:
+  - '&bWe use &aEMERALDS &bas'
+  - '&bcurrency.'
+moneycmd:
+  location: world, 212.619, 86.000, 159.432
+  lines:
+  - '&a&l$ Commands'
+  - '&a/money pay [amt] [player]'
+  - 'These use your vaults:'
+  - '&a/money withdraw [amt]'
+  - '&a/money deposit [amt]'
+  - You can see your balance
+  - on Stats panel ("Emeralds")
+shopkeeper:
+  location: world, 207.280, 87.200, 164.700
+  lines:
+  - We use villagers as shops.
+  - '&8Regular villagers won''t trade, BUT'
+  - '&8You can make them yours using:'
+  - '&8EMERALDS.'
+cheaprails:
+  location: world, 178.449, 77.200, 160.433
+  lines:
+  - '&a&lCHEAP RAILS'
+  - Build your mineroad for next
+  - to nothing!
+  - Shop here!
+warp:
+  location: world, 195.024, 79.365, 162.518
+  lines:
+  - 'Don''t underestimate the power of:'
+  - '&b/warp&f!'

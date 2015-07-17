@@ -1,0 +1,8 @@
+# Vote4Item Configuration
+#
+# Broadcast Message
+message=Thanks §b{username}§r for voting on §9{serviceName}!
+#
+# Vote Rewards
+# Item ID:Damage=Amount
+264=1

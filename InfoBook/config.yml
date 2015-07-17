@@ -1,0 +1,38 @@
+# InfoBook
+
+# Plugin should check for new versions and inform you on server start?
+version-check: false
+
+# Every player will got books from that list on first login
+onlogin:
+  - bookname
+
+# Player cannot drop books from that list.
+protected:
+  - bookname
+
+# You can decide what books from onlogin list will not save
+# information that player got it already, so players will get
+# that books on every login. 
+dontsave:
+  - bookname
+
+# You can destroy book on drop from inventory
+destroy-on-drop: false
+
+# If true you need to add permission node:
+# infobook.book.<bookname>
+# without that perms, player will not autoget books
+per-book-permissions: false
+
+# Book definition
+default:
+  slot: 9
+  author: 'Admin'
+  title: 'Informations'
+  description:
+    - 'First line'
+    - 'Second line'
+  pages:
+    - '&cInformation book &x &x&0Here you &xcan put &xinformations.'
+    - 'Second page of our book.'

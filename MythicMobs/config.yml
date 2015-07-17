@@ -1,0 +1,33 @@
+# 
+# CONFIGURATION INFORMATION AVAILABLE AT: http://xikage.elseland.net/mythicmobs/
+
+general:
+  check-for-updates: true
+  compatibility-mode: false
+  debug-level: 0
+  error-logging: true
+  clock-interval: 5
+  save-interval: 5
+  spawns-interval: 2
+  scanner-interval: 10
+  cleanup-interval: 600
+  use-volatile-features: true
+mobs:
+  enable-timer-skills: true
+  enable-legacy-skills: true
+  enable-threat-tables: true
+  enable-player-factions: true
+  show-health-radius: 25
+  show-health-format: $mobname - $percent ($mobhp / $mobmaxhp)
+metrics:
+  allow: true
+compatibility:
+  heroes-xp-enable: false
+  heroes-show-xp-message: true
+  heroes-xp-message-format: You receive $xp experience for slaying $mobname
+  mcmmo-show-xp-message: false
+  mcmmo-xp-message-format: You receive $xp experience for slaying $mobname
+  skillapi-show-xp-message: true
+  skillapi-xp-message-format: You receive $xp experience for slaying $mobname
+  vault-show-money-message: true
+  vault-money-message-format: You receive $money for slaying $mobname

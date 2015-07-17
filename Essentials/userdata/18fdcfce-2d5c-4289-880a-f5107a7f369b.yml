@@ -1,0 +1,29 @@
+lastAccountName: hotrodharly4
+timestamps:
+  login: 1437090346177
+  lastteleport: 1437088307186
+  logout: 1437090327631
+ipAddress: 67.230.224.72
+lastlocation:
+  world: world
+  x: -212.0
+  y: 63.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: world
+    x: -210.67831848578257
+    y: 63.0
+    z: 0.5621405746568309
+    yaw: 71.544495
+    pitch: 30.150091
+logoutlocation:
+  world: world
+  x: -167.78836891415253
+  y: 63.0
+  z: -5.788540405650362
+  yaw: -261.3102
+  pitch: 21.299917
+afk: false

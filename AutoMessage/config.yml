@@ -1,0 +1,33 @@
+#  ----------------------------------------------------
+#  AutoMessage Configuration File
+#  ----------------------------------------------------
+#  Message Configuration:
+#     Messages are handled in lists to allow for advanced customization!
+#     Feel free to add color codes by using & in your messages!
+#     To split a message onto multiple lines use the \n delimiter!
+#     Lines starting with / will be run as a command!
+#     To add single apostrophes into a message use ''.
+#     For a complete tutorial go to http://dev.bukkit.org/server-mods/automessage.
+#     If you are unfamiliar with YAML use the in-game commands: /am help
+
+settings:
+  enabled: true
+  min-players: 0
+  log-to-console: false
+message-lists:
+  json:
+    enabled: true
+    interval: 45
+    expiry: -1
+    random: false
+    messages:
+    - '{text:"Click me to open up the &aLegend Nexus server map&r!",clickEvent:{action:open_url,value:"http://legendnexus.ninja:8123"}}'
+    - No donations allowed! (We aren"t sell-outs)
+    - You can use &a/warp &rto get around to far corners of the map much easier.
+    - The paths are helpful ways to get around, but you might consider carving your own path!
+    - '&bPlease vote on PMC: http://www.planetminecraft.com/server/legend-nexus/'
+    - '&aThanks&r for being a part of this awesome, yet young community!'
+    - '&bYou can get normal materials (coal, redstone) by smelting the ores!'
+    - '&7/dynamp hide -- hide yourself on Dynmap; /dynmap show -- show yourself'
+    - '&7You can claim villager shopkeepers by right clicking on wild ones!'
+    - '&7You can apply to officiate/protect your town by contacting buckshot22!'

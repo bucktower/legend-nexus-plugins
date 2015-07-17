@@ -1,0 +1,51 @@
+# Main configuration
+
+# Compatible mode with other plugins like HealthBar, ColoredTags, GhostPlayer or McCombatLevel
+compatibilityMode: false
+
+disabled-worlds:
+  - city
+
+# This will not count vanished players in the online value
+hide-vanished: false
+
+Scoreboard:
+  Title: '&b&lStats'
+  # seconds
+  # For instant updates you can or 1 and it will update every second
+  Update-delay: 2
+  Items:
+    # The Title must have under 48 characters
+    # Title: Type
+    '&9Emeralds': '%money%'
+    '&9MCMMO Pwr Lvl': '%powlvl%'
+    '&9Woodcutting': '%woodcutting%'
+    '&9Mining': '%mining%'
+    '&9Taming': '%taming%'
+    '&9Acrobatics': '%acrobatics%'
+    '&9Archery': '%archery%'
+    '&9Axes': '%axes%'
+    '&9Excavation': '%excavation%'
+    '&9Fishing': '%fishing%'
+    '&9Herbalism': '%herbalism%'
+    '&9Repair': '%repair%'
+    '&9Smelting': '%smelting%'
+    '&9Swords': '%swords%'
+    '&9Unarmed': '%unarmed%'
+
+# Let ScoreboardStats track stats (kills, deaths, mobkills, killstreak) You need no plugin for this
+enable-pvpstats: true
+
+Temp-Scoreboard-enabled: false
+
+Temp-Scoreboard:
+  Title: '&a&lTop Kills'
+  # %mob% | %kills% | %killstreak%
+  Type: '%kills%'
+  Color: '&9'
+  # How many Players would be displayed
+  Items: 5
+  Intervall-show: 300
+  Intervall-disappear: 300
+
+pluginUpdate: true

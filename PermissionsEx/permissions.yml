@@ -1,0 +1,140 @@
+groups:
+  default:
+    default: true
+    options:
+      prefix: '&f[&2Member&f] '
+      default: true
+    permissions:
+    - essentials.back
+    - modifyworld.*
+    - scoreboardstats.use
+    - shopkeeper.list.own
+    - shopkeper.help
+    - shopkeeper.trade
+    - shopkeeper.hire
+    - automessage.receive.json
+    - preciousstones.benefit.*
+    - preciousstones.whitelist.*
+    - gringotts.createvault.player
+    - gringotts.usevault
+    - gringotts.transfer
+    - preciousstones.plots.admin
+    - dynmap.show.self
+    - dynmap.hide.self
+    - essentials.afk
+    - essentials.afk.auto
+    - essentials.compass
+    - essentials.depth
+    - essentials.getpos
+    - essentials.help
+    - essentials.helpop
+    - essentials.ignore
+    - essentials.info
+    - essentials.list
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.me
+    - essentials.motd
+    - essentials.msg
+    - essentials.msg.color
+    - essentials.msg.format
+    - essentials.msg.magic
+    - essentials.msg.multiple
+    - essentials.msg.url
+    - essentials.realname
+    - essentials.recipe
+    - essentials.rules
+    - essentials.seen
+    - essentials.seen.banreason
+    - essentials.suicide
+    - essentials.spawn
+    - essentials.whois
+    - essentials.back.ondeath
+    - essentials.keepxp
+    - essentials.delhome
+    - essentials.home
+    - essentials.sethome
+    - essentials.tpa
+    - essentials.tpaall
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.warps.*
+    - essentials.signs.use.free
+    - essentials.signs.use.time
+    - essentials.signs.use.warp
+    - essentials.signs.use.weather
+    - essentials.signs.use.mail
+    - mcmmo.ability.all
+    - mcmmo.defaults
+  admin:
+    inheritance:
+    - default
+    options:
+      prefix: '&f[&2Admin&f] '
+    permissions:
+    - '*'
+    - permissions.*
+    - essentials.silentjoin
+    - essentials.silentquit
+    - essentials.chat.spy
+    - mcmmo.all
+  moderator:
+    inheritance:
+    - default
+    options:
+      prefix: '[&3Moderator&f]'
+    permissions:
+    - essentials.unban
+    - ese
+    - essentials.unbanip
+    - essentials.tempban
+    - essentials.kick
+    - essentials.banip
+    - essentials.ban
+schema-version: 1
+users:
+  fe848b3f-cc5e-460c-99fb-7a5a27c32079:
+    group:
+    - admin
+    options:
+      name: buckshot22
+      prefix: '[&eAdmin&f]'
+  f7afa4cd-5119-419c-91a0-a6564d7a37d8:
+    options:
+      prefix: '[&4Youtuber&f]'
+      name: Asuri17
+  20367adc-223f-410a-bdf5-ba9be5fe698e:
+    worlds:
+      Source&f]:
+        options:
+          prefix: '[&2Reliable'
+    options:
+      name: _Hugooo
+      prefix: '[&2Reliable Source&f]'
+  547332dd-d735-4e12-bab0-ecf21d2bc8a2:
+    options:
+      prefix: '[&2Viscount&f]'
+      name: lemanjb
+  82a7d0f0-a0bc-4711-bbf9-fafc709b1a79:
+    options:
+      name: JStrick20
+  18fdcfce-2d5c-4289-880a-f5107a7f369b:
+    options:
+      name: hotrodharly4
+  05c0f6ec-abc4-4dfa-a931-830199b347f4:
+    options:
+      name: oOo_David_oOo
+    group:
+    - moderator
+  6f3ecc98-c372-4ca7-9ba7-1ac1f81a7afb:
+    options:
+      name: sarinachem
+  46b1961c-5ece-4f5d-ac90-82f90075cea1:
+    options:
+      name: shaferx
+  8ed356fa-2273-4eb5-9f01-b04152f7a09a:
+    options:
+      name: tsalagipride01

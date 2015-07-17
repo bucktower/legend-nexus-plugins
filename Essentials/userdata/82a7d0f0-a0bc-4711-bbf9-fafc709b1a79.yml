@@ -1,0 +1,29 @@
+lastAccountName: JStrick20
+timestamps:
+  login: 1437088818263
+  logout: 1437088070682
+  lastteleport: 1437094549736
+ipAddress: 199.223.221.54
+lastlocation:
+  world: world
+  x: -312.753621011012
+  y: 12.0
+  z: -7.4665960993991645
+  yaw: 183.04321
+  pitch: 34.05
+homes:
+  home:
+    world: world
+    x: -212.05875075628188
+    y: 63.0
+    z: 6.848816200116637
+    yaw: 199.25098
+    pitch: 21.149996
+logoutlocation:
+  world: world
+  x: -220.225744350307
+  y: 63.0
+  z: 2.793190501311759
+  yaw: 65.87598
+  pitch: 9.450297
+afk: false

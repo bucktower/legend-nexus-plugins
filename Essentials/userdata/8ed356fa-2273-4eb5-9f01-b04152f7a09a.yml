@@ -1,0 +1,31 @@
+lastAccountName: tsalagipride01
+timestamps:
+  login: 1437001524141
+  logout: 1437009220843
+  lastteleport: 1437009111658
+ipAddress: 107.207.212.95
+lastlocation:
+  world: world
+  x: 184.30000001192093
+  y: 14.0
+  z: -1948.8332769122298
+  yaw: 229.64565
+  pitch: 40.65003
+logoutlocation:
+  world: world
+  x: -927.007758717877
+  y: 68.0
+  z: -2379.5682297002836
+  yaw: -100.50888
+  pitch: 13.800043
+homes:
+  home:
+    world: world
+    x: -903.1511602429506
+    y: 67.0
+    z: -2374.605832299209
+    yaw: 96.74043
+    pitch: 36.6
+mail:
+- §6[§rbuckshot22§6] §rWe will be working on building a dungeon together sometime soon! Custom bosses & loot!
+afk: false

@@ -1,0 +1,31 @@
+lastAccountName: oOo_David_oOo
+timestamps:
+  login: 1437093128637
+  lastteleport: 1437093974979
+  logout: 1437094615858
+  mute: 0
+ipAddress: 24.179.143.182
+lastlocation:
+  world: world
+  x: -206.30000001192093
+  y: 47.0
+  z: 3.5172780273062942
+  yaw: 14.243713
+  pitch: 17.700071
+logoutlocation:
+  world: world
+  x: 167.80286462946478
+  y: 72.0
+  z: 195.98607263888064
+  yaw: 139.19727
+  pitch: 21.899954
+afk: false
+homes:
+  home:
+    world: world
+    x: -206.30000001192093
+    y: 47.0
+    z: 3.5172780273062942
+    yaw: 14.243713
+    pitch: 17.700071
+muted: false

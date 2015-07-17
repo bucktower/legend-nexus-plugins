@@ -1,0 +1,31 @@
+lastAccountName: aoldude123
+timestamps:
+  login: 1437084049821
+  logout: 1437086687363
+  lastteleport: 1436871842640
+ipAddress: 24.245.9.52
+lastlocation:
+  world: world
+  x: -136.48831157011847
+  y: 75.0
+  z: -779.5670608741934
+  yaw: 130.7904
+  pitch: -7.1796246
+logoutlocation:
+  world: world
+  x: -134.30000001192093
+  y: 79.0
+  z: -784.6120285822558
+  yaw: 173.26105
+  pitch: 3.3307586
+homes:
+  home:
+    world: world
+    x: -133.994835704946
+    y: 76.0
+    z: -794.4452925768254
+    yaw: 34.083584
+    pitch: 23.017124
+mail:
+- §6[§rbuckshot22§6] §rWe will be working on building a dungeon together sometime soon! Custom bosses & loot!
+afk: false

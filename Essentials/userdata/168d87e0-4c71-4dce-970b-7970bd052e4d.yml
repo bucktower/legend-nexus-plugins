@@ -1,0 +1,29 @@
+lastAccountName: trojans63
+timestamps:
+  login: 1437010475528
+  lastteleport: 1437013104660
+  logout: 1437013811121
+ipAddress: 74.129.219.154
+lastlocation:
+  world: world_nether
+  x: -82.02018547024929
+  y: 38.0
+  z: -220.06284223576682
+  yaw: 120.28594
+  pitch: 0.6000051
+homes:
+  home:
+    world: world
+    x: -782.5500011444364
+    y: 74.0
+    z: -2102.587016244156
+    yaw: -114.76306
+    pitch: 28.200006
+logoutlocation:
+  world: world
+  x: 784.7483037697441
+  y: 58.273043300553574
+  z: -450.80938924370054
+  yaw: -163.93726
+  pitch: 9.150016
+afk: false

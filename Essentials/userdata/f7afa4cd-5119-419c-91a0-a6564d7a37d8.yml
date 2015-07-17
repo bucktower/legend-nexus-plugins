@@ -1,0 +1,28 @@
+lastAccountName: Asuri17
+timestamps:
+  login: 1436909044669
+  lastteleport: 1436717323775
+  logout: 1436909074824
+ipAddress: 99.47.189.1
+lastlocation:
+  world: world
+  x: 292.3193977098817
+  y: 83.47623829634536
+  z: -122.90515513684336
+  yaw: 246.35417
+  pitch: 71.70001
+homes:
+  home:
+    world: world
+    x: 283.4534908904606
+    y: 99.0
+    z: -127.52541342344753
+    yaw: -30.776398
+    pitch: 18.149975
+logoutlocation:
+  world: world
+  x: 284.9554794931498
+  y: 101.0
+  z: -127.53904686437303
+  yaw: 259.47357
+  pitch: 55.649982
